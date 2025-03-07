@@ -1,4 +1,4 @@
-Partie 1 : Gestion des utilisateurs
+## Partie 1 : Gestion des utilisateurs
 
 Q.1.1.1
 
@@ -18,7 +18,7 @@ Q.1.1.4
 
 ![Capture d'écran 2025-03-07 104551](https://github.com/user-attachments/assets/01a2a135-f12b-4a82-a9dc-3b069c44fa2d)
 
-Partie 2 : Restriction utilisateurs
+## Partie 2 : Restriction utilisateurs
 
 Q.1.2.1 
 
@@ -39,7 +39,7 @@ Q.1.2.3
 
 ![Capture d'écran 2025-03-07 105040](https://github.com/user-attachments/assets/e8413f55-e2cc-4027-829a-05a6f71ebc3f)
 
-Partie 3 : Lecteurs réseaux
+## Partie 3 : Lecteurs réseaux
 
 Q.1.3.1
 
