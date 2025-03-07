@@ -141,6 +141,9 @@ Q.2.5.4
 
 ![Capture d'écran 2025-03-07 125642](https://github.com/user-attachments/assets/3ec04ce0-73d4-4716-a2a0-74d034e82e37)
 
+![Capture d'écran 2025-03-07 135805](https://github.com/user-attachments/assets/30101b86-2b6b-42c3-8643-90153d0ca444)
+
+
 ## Partie 6 : Analyse de logs
 
 Q.2.6.1 
